@@ -7,7 +7,8 @@ __pycache__/
 *.so
 
 data
-Fig1_dataset_overview.ipynb
+template
+
 
 # Distribution / packaging
 .Python
